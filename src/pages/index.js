@@ -28,7 +28,7 @@ export default function Home() {
           target='_blank'/>
       </div>
 
-      <Link href='/events/' className={`text-white ${styles.topPadding2rem} underline`}>
+      <Link href='/events/' className={`${styles.topPadding2rem} underline`}>
         Check out our events here
       </Link>
       
