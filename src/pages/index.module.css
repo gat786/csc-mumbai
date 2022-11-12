@@ -32,6 +32,13 @@
   padding-block-start: 5rem;
  }
 
+ .topPadding2rem{
+  padding-block-start: 2rem;
+ }
+
+ .gap2{
+  gap: 2rem;
+ }
 
 .heroBanner {
   padding: 4rem 0;
